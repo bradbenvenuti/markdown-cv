@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Brad Benvenuti's CV
 ---
-# Isaac Newton
+# Brad Benvenuti
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
