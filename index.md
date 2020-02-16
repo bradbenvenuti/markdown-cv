@@ -1,10 +1,5 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/markdowncss/splendor/master/css/splendor.css" />
 
----
-layout: cv
-title: Brad Benvenuti's CV
----
-
 
 # Brad Benvenutis
 <div id="webaddress">
